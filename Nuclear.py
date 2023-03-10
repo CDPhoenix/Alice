@@ -2,7 +2,8 @@
 """
 Created on Fri Mar 10 17:41:33 2023
 
-@author: 86130
+@author:WANG Phoenix, Deparment of Mechanical Engineering, THE HONG KONG POLYTECHNIC UNIVERSITY
+C
 """
 import pandas as pd
 import numpy as np
